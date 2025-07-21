@@ -17,12 +17,12 @@ I2Cで書き換えができますので、
 (秋月でも売ってます)
 
 入力ピン
-- Pin19: PC-6001 Red
-- Pin18: PC-6001 Green
-- Pin17: PC-6001 Blue
-- Pin16: PC-6001 輝度信号
-- Pin15: PC-6001 Hsync
-- Pi秋月n10: GND
+- Pin19: PC-6001 Red (6)
+- Pin18: PC-6001 Green (7)
+- Pin17: PC-6001 Blue (8)
+- Pin16: PC-6001 輝度信号 (3)
+- Pin15: PC-6001 Hsync (4)
+- Pin10: GND (2)
   
 出力ピン
 
