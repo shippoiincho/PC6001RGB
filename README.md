@@ -1,6 +1,6 @@
 # PC6001RGB
 PC-6001mk2 RGB converter
-[!][pc6001rgb00.jpg]
+![sample board](pc6001rgb00.jpg)
 
 # これはなに？
 
@@ -57,4 +57,4 @@ GreenPAK のゲート的には余裕があるので、CSYNC の合成回路な�
 
 # 出力サンプル
 
-[!][pc6001rgb01.jpg]
+![Sample output](pc6001rgb01.jpg)
